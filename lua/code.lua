@@ -21,5 +21,6 @@ end
 
 hello()
 demo(true)
+demo(0)
 demo(false)
 factorial(10)

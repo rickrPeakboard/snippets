@@ -15,5 +15,6 @@ def factorial(n):
 
 hello()
 demo(True)
+demo(0)
 demo(False)
 factorial(10)
