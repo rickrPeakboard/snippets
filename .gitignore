@@ -3,3 +3,4 @@ cs/demo/bin/
 cs/demo/obj/
 rs/demo/target/
 rs/demo/cargo.lock
+rs/*/target/
