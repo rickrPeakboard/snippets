@@ -1,21 +1,6 @@
-Editor:
-    feature show case:
-        multiselect tab
-        alt select
-        code completion
-        code highlighting
-        documentation
-        mutlifile support
-
-Python Plugins:
-    linter -> shows errors
-    python plugin
-    pylance
-
-Powershell:
-    script execution in running session vs double click on python script
-
-Indentation
+Project ideas:
+    todo list
+    
 
 Links
 https://docs.python.org/3.8/
