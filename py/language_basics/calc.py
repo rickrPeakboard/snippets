@@ -13,21 +13,21 @@ if selection == 1:
     # addition
     num1 = int(input("Insert the first number! "))
     num2 = int(input("Insert the second number! "))
-    print(str(num1 + num2))
+    print(num1 + num2)
 elif selection == 2:
     # subtraction
     num1 = int(input("Insert the first number! "))
     num2 = int(input("Insert the second number! "))
-    print(str(num1 - num2))
+    print(num1 - num2)
 elif selection == 3:
     # multiply
     num1 = int(input("Insert the first number! "))
     num2 = int(input("Insert the second number! "))
-    print(str(num1 * num2))
+    print(num1 * num2)
 elif selection == 4:
     # division
     num1 = int(input("Insert the first number! "))
     num2 = int(input("Insert the second number! "))
-    print(str(num1 / num2))
+    print(num1 / num2)
 else:
     print("Error: This functionality is not yet implemented.")
